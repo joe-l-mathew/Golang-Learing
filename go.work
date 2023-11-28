@@ -1,0 +1,25 @@
+go 1.18
+
+use (
+	./01hello
+	./02hello
+	./03userinput
+	./04convertion
+	./05timefile
+	./07mypointers
+	./08myarray
+	./09myslice
+	./10maps
+	./11structs
+	./12controlflow
+	./13switchcase
+	./14loops
+	./15functions
+	./16methods
+	./17defer
+	./18files
+	./19webrequest
+	./20urls
+	./20webrequestsverbs
+
+)
